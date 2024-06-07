@@ -1,5 +1,7 @@
 pipeline {
-    agent any 
+    agent any many
+    gany
+    paniZZ
     stages {
         stage('Build') { 
             steps {
